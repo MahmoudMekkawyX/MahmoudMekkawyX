@@ -15,7 +15,7 @@ Computer Engineering graduate (Modern Academy, 2024) with hands-on full stack pr
 - [Company.PL](https://github.com/MahmoudMekkawyX/Company.PL) - Company management system, ASP.NET Core MVC, N-Tier, EF Core, SQL Server
 - [Ecommerce.Solution](https://github.com/MahmoudMekkawyX/Ecommerce.Solution) - E-commerce REST API, ASP.NET Core Web API, Onion Architecture, EF Core
 - [Weather App](https://github.com/MahmoudMekkawyX/weather-app-api) - Real-time weather forecasting from a public API
-- [Angular Portfolio](https://github.com/MahmoudMekkawyX/Angular-Portfolio) - SPA portfolio with Angular 19
+- [Portfolio](https://github.com/MahmoudMekkawyX/portfolio) - Angular portfolio with live project demos: [mahmoudmekkawyx.github.io/portfolio](https://mahmoudmekkawyx.github.io/portfolio/)
 
 ## 📫 Reach Me
 
